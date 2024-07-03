@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I am Bruno a Junior Software Developer from Italy with a strong interest in web applications</h2>
+<h3 align="center">I am Bruno a Junior Software Developer from Italy with a strong interest in web applications</h3>
 
 ###
 
@@ -43,10 +43,6 @@
   <img width="30" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BrunoKuqi/BrunoKuqi/output/snake.svg" alt="Snake animation" />
 
 ###
 
