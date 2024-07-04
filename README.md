@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">💻 I'm currently learning React, Angular and TypeScript! <br>⚡🎯Passionate about art in all its forms, theatre, literature, writing, extreme competitive sports, dance, auteur cinema, marketing, IT and everything that can make me feel good.<br>📧brunostik@live.it - brunostik1@gmail.com</p>
+<p align="center">💻 I'm currently learning React, Angular and TypeScript! <br>⚡🎯 Passionate about art in all its forms, theatre, literature, writing, extreme competitive sports, dance, auteur cinema, marketing, IT and everything that can make me feel good.<br>📫 brunostik@live.it - brunostik1@gmail.com</p>
 
 ###
 
