@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">💻 I'm currently learning React, Angular and TypeScript! <br>⚡🎯Passionate about art in all its forms, theatre, literature, writing, extreme competitive sports, dance, auteur cinema, marketing, IT and everything that can make me feel good.<br>📧brunostik@live.it - brunostik1@gmail.com</p>
 
 ###
 
-<h2 align="left">Front-End Skills</h2>
+<h3 align="left">Front-End Skills</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Back-End Skills</h2>
+<h3 align="left">Back-End Skills</h3>
 
 ###
 
